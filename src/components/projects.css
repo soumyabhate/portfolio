@@ -1,0 +1,42 @@
+/* src/components/projects.css */
+.projects {
+    padding: 60px 20px;
+    background-color: #1b1b1b;
+    text-align: center;
+  }
+  
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+  }
+  
+  .card {
+    background-color: #262626;
+    border-radius: 12px;
+    padding: 20px;
+    color: #f0f0f0;
+    transition: transform 0.3s ease;
+    box-shadow: 0 5px 15px rgba(163, 196, 188, 0.15);
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(180, 151, 214, 0.3);
+  }
+  
+  .card h3 {
+    color: #B497D6;
+  }
+  
+  .card .tools span {
+    background: #A3C4BC;
+    color: #121212;
+    padding: 4px 8px;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+    display: inline-block;
+    font-size: 12px;
+  }
+  
