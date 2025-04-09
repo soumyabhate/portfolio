@@ -1,10 +1,12 @@
 // src/App.js
 import React, { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import About from "./components/About";
-import Projects from "./components/Projects";
-import Skills from "./components/Skills";
+
+import Navbar from "./components/Navbar";       // ✅ PascalCase
+import About from "./components/About";         // ✅ PascalCase
+import Projects from "./components/projects";   // ✅ PascalCase
+import Skills from "./components/Skills";       // ✅ PascalCase
+
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "./App.css";
@@ -29,4 +31,3 @@ function App() {
 }
 
 export default App;
-
