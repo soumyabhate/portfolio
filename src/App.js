@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";       // ✅ PascalCase
 import About from "./components/About";         // ✅ PascalCase
-import Projects from "./components/projects";   // ✅ PascalCase
+import Projects from "./components/Projects";   // ✅ PascalCase
 import Skills from "./components/Skills";       // ✅ PascalCase
 
 import AOS from "aos";
