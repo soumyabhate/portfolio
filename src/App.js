@@ -1,6 +1,6 @@
 // src/App.js
 import React, { useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";       // ✅ PascalCase
 import About from "./components/About";         // ✅ PascalCase
@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router basename="/portfolio">
+      <Router>
         <Navbar />
         <Routes>
           <Route path="/" element={<About />} />
