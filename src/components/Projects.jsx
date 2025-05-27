@@ -44,9 +44,9 @@ const Projects = () => {
                 rel="noopener noreferrer"
                 className="project-btn"
               >
-                <span className="icon-wrapper">
+                {/* <span className="icon-wrapper">
                 <i className="fab fa-github"></i>
-                </span>
+                </span> */}
                 View Code
               </a>
             )}
