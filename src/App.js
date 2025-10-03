@@ -1,33 +1,13 @@
-// src/App.js
-import React, { useEffect } from "react";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+// src/index.js
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import './index.css';
+import App from './App';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
-import Navbar from "./components/Navbar";       // ✅ PascalCase
-import About from "./components/About";         // ✅ PascalCase
-import Projects from "./components/Projects";   // ✅ PascalCase
-import Skills from "./components/Skills";       // ✅ PascalCase
-
-import AOS from "aos";
-import "aos/dist/aos.css";
-import "./App.css";
-
-function App() {
-  useEffect(() => {
-    AOS.init({ duration: 1000 });
-  }, []);
-
-  return (
-    <div className="App">
-      <Router>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<About />} />
-          <Route path="/projects" element={<Projects />} /> 
-          {/* <Route path="/skills" element={<Skills />} /> */}
-        </Routes>
-      </Router>
-    </div>
-  );
-}
-
-export default App;
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
