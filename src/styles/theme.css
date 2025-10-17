@@ -86,3 +86,11 @@ a{color:inherit}
 .cloud.c1{left:5%; top:10%}
 .cloud.c2{left:55%; top:5%}
 .cloud.c3{left:75%; top:22%}
+
+/* --- Skills marquee + hover effects --- */
+.marquee{position:relative;overflow:hidden;padding:8px 0;mask-image:linear-gradient(to right,transparent,black 10%,black 90%,transparent)}
+.marquee .track{display:inline-flex;align-items:center;gap:12px;white-space:nowrap;min-width:max-content;animation:scroll-x 28s linear infinite;will-change:transform}
+.marquee:hover .track{animation-play-state:paused}
+@keyframes scroll-x{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.tag.skill{position:relative;transition:transform .18s ease, box-shadow .25s ease, background .25s ease;background:#fff}
+.tag.skill:hover{transform:translateY(-2px) scale(1.03);box-shadow:0 10px 20px rgba(255,198,217,.35);background:linear-gradient(180deg,#fff,#fff0f5);border-color:#ffd3e4}
