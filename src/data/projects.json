@@ -1,32 +1,32 @@
 [
   {
     "title": "Washington, D.C. Crime Prediction",
-    "summary": "Classified crime types with engineered spatial/temporal features; evaluated with F1/precision/recall/accuracy.",
-    "tags": ["ML","Python","Pandas","scikit-learn"],
-    "links": {"repo":"#"}
+    "summary": "Developed ML models (Decision Tree, Logistic Regression, SVM) to classify crime types using D.C. datasets with spatial and temporal features; evaluated with precision, recall, F1, and accuracy.",
+    "tags": ["Machine Learning", "Python", "Pandas", "scikit-learn", "Seaborn", "Matplotlib"],
+    "links": {"repo": "#"}
   },
   {
-    "title": "Stock Market Trends & Volatility (Big Data)",
-    "summary": "Analyzed ~5 years / ~8K tickers; Spark SQL + window functions; built LR model with Spark MLlib (fixed label leakage).",
-    "tags": ["Spark","PySpark","Databricks","MLlib"],
-    "links": {"repo":"#"}
+    "title": "Stock Market Trends & Volatility Analysis",
+    "summary": "Analyzed five years of U.S. stock data (~8K tickers) using Apache Spark and PySpark. Engineered time-series features, identified volatility spikes, and built a logistic regression model using Spark MLlib.",
+    "tags": ["Big Data", "Spark", "PySpark", "Databricks", "Spark MLlib", "SQL", "Pandas"],
+    "links": {"repo": "#"}
   },
   {
-    "title": "Official Project – Business Banking (Malaysia)",
-    "summary": "Strategy, TSDs, product taxonomy, Adobe Launch configuration; led dashboards & sprint reviews.",
-    "tags": ["Adobe Launch","Analytics","PM"],
-    "links": {"repo":"#"}
+    "title": "Business Banking – Malaysia (Official Project)",
+    "summary": "Designed project strategy, TSDs, and Adobe Launch configuration. Led dashboard creation, sprint reviews, and stakeholder meetings.",
+    "tags": ["Adobe Launch", "Analytics", "Project Management"],
+    "links": {"repo": "#"}
   },
   {
-    "title": "SMS Spam Detector",
-    "summary": "Naive Bayes, SVM, and Decision Tree models to categorize SMS spam.",
-    "tags": ["ML","Python"],
-    "links": {"repo":"#"}
+    "title": "SMS Spam Detection System",
+    "summary": "Built models using Naive Bayes, SVM, and Decision Tree algorithms to identify spam SMS messages.",
+    "tags": ["ML", "Python", "Text Classification"],
+    "links": {"repo": "#"}
   },
   {
-    "title": "Pizza Delivery Website",
-    "summary": "Website with location-based customer preference analysis.",
-    "tags": ["Web","JavaScript"],
-    "links": {"repo":"#"}
+    "title": "Pizza Delivery Analytics Website",
+    "summary": "Developed a web platform for pizza ordering and customer preference analysis using HTML, CSS, and JavaScript.",
+    "tags": ["Web Development", "JavaScript", "Analytics"],
+    "links": {"repo": "#"}
   }
 ]

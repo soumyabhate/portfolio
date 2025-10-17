@@ -1,11 +1,11 @@
 [
   {
     "role": "Information Technology Assistant",
-    "org": "Division of IT (DoIT), UMBC",
+    "org": "Division of Information Technology (DoIT), UMBC",
     "period": "Mar 2025 — Present",
     "bullets": [
-      "Built & refined Tableau dashboards for ticket analytics with clear documentation.",
-      "Hands-on IT support; used SQL/Python for data management and internal reporting."
+      "Develop and refine Tableau dashboards for IT ticket analytics with clear documentation.",
+      "Provide hands-on IT support while leveraging SQL and Python for internal data management and reporting."
     ],
     "stack": ["Tableau", "SQL", "Python"]
   },
@@ -14,8 +14,8 @@
     "org": "UMBC",
     "period": "Mar 2025 — Aug 2025",
     "bullets": [
-      "Designed warehouse schemas & ETL pipelines; migrated legacy reports to modern BI.",
-      "Translated business needs into SQL queries to improve reporting accuracy."
+      "Built Tableau dashboards and migrated legacy reports to tableau.",
+      "Enhanced reporting accuracy by translating business needs into SQL queries."
     ],
     "stack": ["ETL", "SQL", "Tableau", "Data Modeling"]
   },
@@ -24,7 +24,8 @@
     "org": "Residential Life, UMBC",
     "period": "Jan 2025 — Mar 2025",
     "bullets": [
-      "Handled check-ins, package distribution and front-desk ops in a fast-paced environment."
+      "Managed administrative operations including check-ins and package distribution.",
+      "Collaborated with the Residential Life team to foster a welcoming community environment."
     ],
     "stack": ["Operations", "Customer Service"]
   },
@@ -33,36 +34,40 @@
     "org": "OMEG Digital Technology Solutions",
     "period": "Jul 2023 — Jul 2024",
     "bullets": [
-      "Created TSDs/SDRs for cross-platform web & mobile apps; configured Adobe Launch.",
-      "Built interactive KPI dashboards; authored SME articles to boost visibility."
+      "Authored Technical Specification Documents (TSDs) and Software Design Reports (SDRs) for cross-platform web and mobile apps.",
+      "Built interactive dashboards for business KPIs and metrics using Adobe Launch and Analytics.",
+      "Led major projects, coordinated sprints, and authored technical articles to improve visibility."
     ],
-    "stack": ["Adobe Analytics", "AEM", "Launch", "Dashboards"]
+    "stack": ["Adobe Analytics", "AEM", "Launch", "Dashboarding", "Consulting"]
   },
   {
     "role": "Data Engineer Intern",
     "org": "OMEG Digital Technology Solutions",
     "period": "Jan 2023 — Jul 2023",
     "bullets": [
-      "Implemented analytics tracking and documentation; analyzed staging vs production KPIs."
+      "Implemented Adobe Analytics tracking using JSON logic and trackState/trackAction methods.",
+      "Created analytics documentation and analyzed staging vs production KPIs for actionable insights."
     ],
-    "stack": ["Adobe Analytics", "Documentation"]
+    "stack": ["Adobe Analytics", "Documentation", "Tracking"]
   },
   {
     "role": "Web Development Intern",
     "org": "REGex Software Services",
     "period": "Jan 2021 — Apr 2021",
     "bullets": [
-      "Built a custom CMS for non-technical users using HTML, CSS, JavaScript & PHP."
+      "Developed a custom CMS enabling content updates for non-technical users.",
+      "Utilized HTML, CSS, JavaScript, and PHP for efficient UI/UX and backend functionality."
     ],
-    "stack": ["Web", "JavaScript", "PHP"]
+    "stack": ["JavaScript", "PHP", "Web Development"]
   },
   {
     "role": "Social Media Intern",
     "org": "MEDICS",
     "period": "Aug 2020 — Sept 2020",
     "bullets": [
-      "Designed awareness campaigns and visuals; partnered with brands for donation drives."
+      "Designed COVID-19 awareness campaigns and visuals for social media platforms.",
+      "Partnered with brands to drive donation campaigns and expand outreach."
     ],
-    "stack": ["Campaigns", "Design"]
+    "stack": ["Design", "Social Media", "Campaigns"]
   }
 ]

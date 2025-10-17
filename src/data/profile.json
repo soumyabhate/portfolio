@@ -1,17 +1,13 @@
 {
   "name": "Soumya Bhate",
-  "tagline": "Data & Frontend Engineer • PM-minded • AI/ML & Analytics",
+  "tagline": "Data Scientist • Big Data Enthusiast • AI/ML Practitioner",
   "location": "Baltimore, MD",
   "email": "soumyabhate19@gmail.com",
   "links": {
-    "linkedin": "https://www.linkedin.com/in/your-handle",
+    "linkedin": "https://www.linkedin.com/in/soumyabhate19",
     "github": "https://github.com/soumyabhate",
-    "resume": "resume.pdf"
+    "resume": "SoumyaBhateResume.pdf"
   },
-  "now": [
-    "Building a pastel anime portfolio in React",
-    "Healthcare data dashboards & ML",
-    "Sharpening PM + analytics workflows"
-  ],
-  "highlights": ["Python", "React", "SQL", "Tableau", "Spark"]
+  
+  "highlights": ["Python", "SQL", "Spark", "Tableau", "Adobe Analytics"]
 }

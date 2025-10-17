@@ -1,6 +1,6 @@
 {
-  "Core": ["Python", "SQL/T-SQL", "React", "JavaScript", "HTML/CSS", "Tableau", "Power BI"],
-  "Supporting": ["Apache Spark", "Databricks", "Hadoop", "Adobe Analytics/AEM/Launch/Target", "SSMS/SSIS", "Git & GitHub"],
-  "Focus Areas": ["Machine Learning", "NLP", "Data Warehousing", "NoSQL (MongoDB)", "Statistical Analysis", "Documentation"],
-  "Learning": ["Testing", "TypeScript", "Tailwind"]
+  "Core": ["Python", "SQL / T-SQL", "JavaScript", "HTML", "CSS", "Tableau", "Power BI"],
+  "Supporting": ["Apache Spark", "Databricks", "Hadoop", "Adobe Analytics", "Adobe Experience Manager (AEM)", "Adobe Launch", "Adobe Target", "SSMS / SSIS", "Git & GitHub", "Excel"],
+  "Focus Areas": ["Machine Learning", "Natural Language Processing (NLP)", "Data Warehousing", "NoSQL (MongoDB)", "Statistical Analysis", "ETL Pipelines", "Documentation"],
+  "Learning": ["AI-driven Visualization", "TypeScript", "Tailwind CSS", "Cloud Data Solutions (AWS/Azure)"]
 }
