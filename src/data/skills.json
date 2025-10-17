@@ -1,7 +1,12 @@
 {
   "Technical & Programming": [
     "Python",
+    "Machine Learning",
+    "Natural Language Processing (NLP)",
+    "Data Warehousing",
     "SQL / T-SQL",
+    "NoSQL (MongoDB)",
+    "ETL Pipelines",
     "JavaScript",
     "HTML",
     "CSS",
@@ -22,11 +27,6 @@
     "Tableau",
     "Excel",
     "Adobe Analytics",
-    "Machine Learning",
-    "Natural Language Processing (NLP)",
-    "Data Warehousing",
-    "NoSQL (MongoDB)",
-    "ETL Pipelines",
     "Statistical Analysis"
   ]
 }
