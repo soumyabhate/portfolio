@@ -27,7 +27,7 @@ export default function App(){
         <ExperienceTimeline/>
       </Section>
 
-      <Section id="skills" title="Skills" subtitle="Hover to pause · Smooth scrolling chips">
+      <Section id="skills" title="Skills">
         <SkillsMarquee/>
         <div style={{height:12}}/>
         <SkillsCloud/>
