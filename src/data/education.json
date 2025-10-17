@@ -1,3 +1,14 @@
 [
-  {"school":"UMBC","degree":"M.Eng. Management","period":"2023 — 2025","highlights":["Special Topics in AI","Project Management","Analytics"]}
+  {
+    "school": "University of Maryland, Baltimore County (UMBC)",
+    "degree": "Master of Professional Studies, Data Science",
+    "period": "Expected May 2026",
+    "details": ["CGPA 3.86/4.0", "Specialization: Data Modelling/Warehousing & Database Administration"]
+  },
+  {
+    "school": "Medi-Caps University (MU), Indore",
+    "degree": "B.Tech, Information Technology",
+    "period": "2019 — 2023",
+    "details": ["CGPA 3.51/4.0", "Specialization: Web Technologies (IoT, Web Dev & Networking)"]
+  }
 ]

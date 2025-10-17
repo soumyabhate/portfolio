@@ -1,12 +1,17 @@
 {
   "name": "Soumya Bhate",
-  "tagline": "Engineer • PM • AI/Frontend — building delightful, useful things",
+  "tagline": "Data & Frontend Engineer • PM-minded • AI/ML & Analytics",
   "location": "Baltimore, MD",
-  "email": "you@example.com",
+  "email": "soumyabhate19@gmail.com",
   "links": {
-    "linkedin": "https://linkedin.com/in/your-handle",
+    "linkedin": "https://www.linkedin.com/in/your-handle",
     "github": "https://github.com/soumyabhate",
-    "resume": "#"
+    "resume": "resume.pdf"
   },
-  "now": ["Learning React + Vite", "Shipping a pastel anime portfolio", "Exploring data viz in healthcare"]
+  "now": [
+    "Building a pastel anime portfolio in React",
+    "Healthcare data dashboards & ML",
+    "Sharpening PM + analytics workflows"
+  ],
+  "highlights": ["Python", "React", "SQL", "Tableau", "Spark"]
 }

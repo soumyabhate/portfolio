@@ -1,12 +1,68 @@
 [
   {
-    "role": "Project / Research Work",
-    "org": "UMBC & collaborations",
-    "period": "2024 — 2025",
+    "role": "Information Technology Assistant",
+    "org": "Division of IT (DoIT), UMBC",
+    "period": "Mar 2025 — Present",
     "bullets": [
-      "Drove docs, dashboards, and experiments across AI/Frontend projects.",
-      "Coordinated cross-team delivery with clear specs and KPIs."
+      "Built & refined Tableau dashboards for ticket analytics with clear documentation.",
+      "Hands-on IT support; used SQL/Python for data management and internal reporting."
     ],
-    "stack": ["React","Python","PM"]
+    "stack": ["Tableau", "SQL", "Python"]
+  },
+  {
+    "role": "Student Business Intelligence Analyst",
+    "org": "UMBC",
+    "period": "Mar 2025 — Aug 2025",
+    "bullets": [
+      "Designed warehouse schemas & ETL pipelines; migrated legacy reports to modern BI.",
+      "Translated business needs into SQL queries to improve reporting accuracy."
+    ],
+    "stack": ["ETL", "SQL", "Tableau", "Data Modeling"]
+  },
+  {
+    "role": "Desk Assistant",
+    "org": "Residential Life, UMBC",
+    "period": "Jan 2025 — Mar 2025",
+    "bullets": [
+      "Handled check-ins, package distribution and front-desk ops in a fast-paced environment."
+    ],
+    "stack": ["Operations", "Customer Service"]
+  },
+  {
+    "role": "Data Engineer | Business Consultant",
+    "org": "OMEG Digital Technology Solutions",
+    "period": "Jul 2023 — Jul 2024",
+    "bullets": [
+      "Created TSDs/SDRs for cross-platform web & mobile apps; configured Adobe Launch.",
+      "Built interactive KPI dashboards; authored SME articles to boost visibility."
+    ],
+    "stack": ["Adobe Analytics", "AEM", "Launch", "Dashboards"]
+  },
+  {
+    "role": "Data Engineer Intern",
+    "org": "OMEG Digital Technology Solutions",
+    "period": "Jan 2023 — Jul 2023",
+    "bullets": [
+      "Implemented analytics tracking and documentation; analyzed staging vs production KPIs."
+    ],
+    "stack": ["Adobe Analytics", "Documentation"]
+  },
+  {
+    "role": "Web Development Intern",
+    "org": "REGex Software Services",
+    "period": "Jan 2021 — Apr 2021",
+    "bullets": [
+      "Built a custom CMS for non-technical users using HTML, CSS, JavaScript & PHP."
+    ],
+    "stack": ["Web", "JavaScript", "PHP"]
+  },
+  {
+    "role": "Social Media Intern",
+    "org": "MEDICS",
+    "period": "Aug 2020 — Sept 2020",
+    "bullets": [
+      "Designed awareness campaigns and visuals; partnered with brands for donation drives."
+    ],
+    "stack": ["Campaigns", "Design"]
   }
 ]

@@ -1,5 +1,6 @@
 {
-  "Core": ["React", "JavaScript/TypeScript", "HTML/CSS", "Git & GitHub", "Project Management"],
-  "Supporting": ["Python", "Data Analysis", "REST APIs", "UI/UX basics"],
-  "Learning": ["Tailwind", "Testing"]
+  "Core": ["Python", "SQL/T-SQL", "React", "JavaScript", "HTML/CSS", "Tableau", "Power BI"],
+  "Supporting": ["Apache Spark", "Databricks", "Hadoop", "Adobe Analytics/AEM/Launch/Target", "SSMS/SSIS", "Git & GitHub"],
+  "Focus Areas": ["Machine Learning", "NLP", "Data Warehousing", "NoSQL (MongoDB)", "Statistical Analysis", "Documentation"],
+  "Learning": ["Testing", "TypeScript", "Tailwind"]
 }

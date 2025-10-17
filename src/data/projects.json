@@ -1,14 +1,32 @@
 [
   {
-    "title": "Portfolio v2",
-    "summary": "Pastel anime theme with data-driven sections.",
-    "tags": ["Web","UI"],
-    "links": {"live":"https://soumyabhate.github.io/portfolio/","repo":"https://github.com/soumyabhate/portfolio"}
+    "title": "Washington, D.C. Crime Prediction",
+    "summary": "Classified crime types with engineered spatial/temporal features; evaluated with F1/precision/recall/accuracy.",
+    "tags": ["ML","Python","Pandas","scikit-learn"],
+    "links": {"repo":"#"}
   },
   {
-    "title": "Healthcare Dashboard (demo)",
-    "summary": "Interactive charts & KPIs with React.",
-    "tags": ["Web","Healthcare","Data"],
+    "title": "Stock Market Trends & Volatility (Big Data)",
+    "summary": "Analyzed ~5 years / ~8K tickers; Spark SQL + window functions; built LR model with Spark MLlib (fixed label leakage).",
+    "tags": ["Spark","PySpark","Databricks","MLlib"],
+    "links": {"repo":"#"}
+  },
+  {
+    "title": "Official Project – Business Banking (Malaysia)",
+    "summary": "Strategy, TSDs, product taxonomy, Adobe Launch configuration; led dashboards & sprint reviews.",
+    "tags": ["Adobe Launch","Analytics","PM"],
+    "links": {"repo":"#"}
+  },
+  {
+    "title": "SMS Spam Detector",
+    "summary": "Naive Bayes, SVM, and Decision Tree models to categorize SMS spam.",
+    "tags": ["ML","Python"],
+    "links": {"repo":"#"}
+  },
+  {
+    "title": "Pizza Delivery Website",
+    "summary": "Website with location-based customer preference analysis.",
+    "tags": ["Web","JavaScript"],
     "links": {"repo":"#"}
   }
 ]
