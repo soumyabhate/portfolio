@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Portfolio v2",
+    "summary": "Pastel anime theme with data-driven sections.",
+    "tags": ["Web","UI"],
+    "links": {"live":"https://soumyabhate.github.io/portfolio/","repo":"https://github.com/soumyabhate/portfolio"}
+  },
+  {
+    "title": "Healthcare Dashboard (demo)",
+    "summary": "Interactive charts & KPIs with React.",
+    "tags": ["Web","Healthcare","Data"],
+    "links": {"repo":"#"}
+  }
+]

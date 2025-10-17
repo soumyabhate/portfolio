@@ -1,0 +1,12 @@
+{
+  "name": "Soumya Bhate",
+  "tagline": "Engineer • PM • AI/Frontend — building delightful, useful things",
+  "location": "Baltimore, MD",
+  "email": "you@example.com",
+  "links": {
+    "linkedin": "https://linkedin.com/in/your-handle",
+    "github": "https://github.com/soumyabhate",
+    "resume": "#"
+  },
+  "now": ["Learning React + Vite", "Shipping a pastel anime portfolio", "Exploring data viz in healthcare"]
+}

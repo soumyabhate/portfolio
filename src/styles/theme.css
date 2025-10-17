@@ -1,0 +1,78 @@
+:root{
+  --bg: #FFF9FB;            /* mist */
+  --surface: #FFFFFFEE;     /* glass card */
+  --ink-900:#1F2937;        /* headings */
+  --ink-700:#374151;        /* body */
+  --line:#E5E7EB;
+
+  --pink:#FFC6D9;           /* sakura */
+  --blue:#AEE3FF;           /* sky */
+  --mint:#BFF4D1;
+  --lav:#CDBEFF;
+  --peach:#FFD7B5;
+
+  --radius: 20px;
+  --shadow: 0 10px 30px rgba(31,41,55,.12);
+}
+
+@font-face{
+  font-family: 'InterVar';
+  src: local('Inter var'), local('Inter');
+  font-display: swap;
+}
+
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{
+  margin:0;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, var(--pink)10%,transparent 60%),
+    radial-gradient(900px 500px at 90% 0%, var(--blue)10%,transparent 60%),
+    radial-gradient(900px 500px at 0% 100%, var(--mint)10%,transparent 60%),
+    var(--bg);
+  color:var(--ink-700);
+  font-family: InterVar, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji","Segoe UI Emoji";
+}
+
+a{color:inherit}
+.container{max-width:1080px;margin:0 auto;padding:24px}
+.card{
+  background:var(--surface);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+}
+
+.btn{
+  display:inline-flex; align-items:center; gap:.5rem;
+  padding:.8rem 1.1rem; border-radius:999px; border:1px solid var(--line);
+  background:linear-gradient(180deg, #fff, #fdfbff);
+  transition:transform .15s ease, box-shadow .2s ease;
+}
+.btn.primary{ background:linear-gradient(180deg, var(--pink), #ffd9e6); border:none; color:#263238 }
+.btn:hover{ transform:translateY(-2px); box-shadow:0 12px 30px rgba(0,0,0,.08) }
+
+.section{padding:72px 0}
+.section h2{
+  margin:0 0 12px; font-size:32px; color:var(--ink-900)
+}
+.section p.lead{margin:0 0 24px;color:#475569}
+
+.tag{
+  display:inline-block; padding:.35rem .7rem; border-radius:999px;
+  background:#ffffffaa; border:1px solid var(--line);
+  font-size:.85rem; margin:.25rem .25rem 0 0;
+}
+
+/* subtle petals */
+@keyframes drift{ to { transform: translateY(40px) translateX(10px) rotate(30deg); opacity:.2 } }
+.petals{ position:absolute; inset:0; pointer-events:none; overflow:hidden; }
+.petals span{
+  position:absolute; width:10px; height:8px; background:var(--pink);
+  border-radius:50% 50% 50% 0; opacity:.12; filter:blur(.2px);
+  animation:drift 6s linear infinite; transform:rotate(10deg);
+}
+.petals span:nth-child(2){ left:20%; animation-duration:7s }
+.petals span:nth-child(3){ left:40%; animation-duration:9s }
+.petals span:nth-child(4){ left:60%; animation-duration:8s }
+.petals span:nth-child(5){ left:80%; animation-duration:10s }

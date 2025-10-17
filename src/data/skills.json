@@ -1,0 +1,5 @@
+{
+  "Core": ["React", "JavaScript/TypeScript", "HTML/CSS", "Git & GitHub", "Project Management"],
+  "Supporting": ["Python", "Data Analysis", "REST APIs", "UI/UX basics"],
+  "Learning": ["Tailwind", "Testing"]
+}
