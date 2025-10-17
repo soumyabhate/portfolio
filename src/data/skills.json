@@ -5,14 +5,13 @@
     "Natural Language Processing (NLP)",
     "Data Warehousing",
     "SQL / T-SQL",
-    "NoSQL (MongoDB)",
     "ETL Pipelines",
+    "NoSQL (MongoDB)",
+    "SSMS / SSIS",
     "JavaScript",
     "HTML",
     "CSS",
     "Git & GitHub",
-    "SSMS / SSIS",
-    "Cloud Data Solutions (AWS / Azure)"
   ],
   "Frameworks & Tools": [
     "Apache Spark",
